@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "твой_ник_на_гитхабе"
+  },
+  "record": {
+    "NS": [
+      "jeff.ns.cloudflare.com",
+      "jen.ns.cloudflare.com"
+    ]
+  }
+}
